@@ -12,4 +12,4 @@ def gerar_senha():
 
     print("Sua nova senha:" + senha)
     
-print(gerar_senha())
+gerar_senha()
